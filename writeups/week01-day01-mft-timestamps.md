@@ -23,8 +23,8 @@ KAPE, MFTECmd and TimelineExplorer
 ## Findings
 Logs screenshots : <br>
 1. <img src="images/Capture d'écran 2026-10-08 225446.png" style="width:300px;"></img>
-2. <img src="images/Capture d'écran 2026-10-08 225459.png" style="width:300px;></img>
-3. <img src="images/Capture d'écran 2026-10-08 225513.png" style="width:300px;></img>
+2. <img src="images/Capture d'écran 2026-10-08 225459.png" style="width:300px;"></img>
+3. <img src="images/Capture d'écran 2026-10-08 225513.png" style="width:300px;"></img>
 
 ## Timeline
 Time | Event | Source artifact <br>
