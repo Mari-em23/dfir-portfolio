@@ -5,12 +5,11 @@ Reconstructing File Activity from the $MFT (Draft)
 Reconstruct the activity on day1_test.txt (create, edit, copy, rename) using only the $MFT.
 
 ## Evidence
-Files, images or logs analyzed (name, hash, source). <br>
 C:/Lab/day1_renamed.txt <br>
 C:/Users/mariem/AppData/Roaming/Microsoft/Windows/Recent/day1_test.lnk <br>
 C:/Lab/day1_test - Copy.txt <br>
-$MFT <br>
-mft.csv <br>
+C:\KAPE_out\tout\C\$MFT (SHA256 hash :  79DC18032B135FB96936684C97CB7C6DA71F47DAFE1105B52CBBD4CD79BF5744) <br>
+C:\KAPE_out\day1\mft.csv
 
 ## Tools Used
 KAPE, MFTECmd and TimelineExplorer
@@ -23,9 +22,9 @@ KAPE, MFTECmd and TimelineExplorer
 
 ## Findings
 Logs screenshots : <br>
-1. <img src="images/Capture d'écran 2026-10-08 225446.png"></img>
-2. <img src="images/Capture d'écran 2026-10-08 225459.png"></img>
-3. <img src="images/Capture d'écran 2026-10-08 225513.png"></img>
+1. <img src="images/Capture d'écran 2026-10-08 225446.png" style="width:300px;"></img>
+2. <img src="images/Capture d'écran 2026-10-08 225459.png" style="width:300px;></img>
+3. <img src="images/Capture d'écran 2026-10-08 225513.png" style="width:300px;></img>
 
 ## Timeline
 Time | Event | Source artifact <br>
